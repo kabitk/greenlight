@@ -229,7 +229,7 @@ de_DE:
     designs: Eigene Designs
     authentication: Nutzerauthentifizierung
   footer:
-    powered_by: Powered by KABI.tk using %{href}. <a href="https://kabi.tk/privacy-policy-impressum/">Imprint/GDPR</a>
+    powered_by: Powered by KABI.tk  - using BigBlueButton and Greenlight. <a href="https://kabi.tk/privacy-policy-impressum/">Imprint/GDPR</a>
   forgot_password:
     subtitle: Passwort vergessen
     email: E-Mail
