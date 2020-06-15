@@ -227,7 +227,7 @@ en:
     title: Features
     rooms: Personalized Rooms
     recordings: Recording Management
-    designs: Custom Designs
+    designs: KABIcloud Integration
     authentication: User Authentication
   footer:
     powered_by: Powered by KABI.tk  - using BigBlueButton and Greenlight. <a href="https://kabi.tk/privacy-policy-impressum/">Imprint/GDPR</a>
