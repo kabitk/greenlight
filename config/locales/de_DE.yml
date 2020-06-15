@@ -226,7 +226,7 @@ de_DE:
     title: Eigenschaften
     rooms: Personalisierte Räume
     recordings: Aufzeichnungsmanagement
-    designs: Eigene Designs
+    designs: KABIcloud Integration
     authentication: Nutzerauthentifizierung
   footer:
     powered_by: Powered by KABI.tk  - using BigBlueButton and Greenlight. <a href="https://kabi.tk/privacy-policy-impressum/">Imprint/GDPR</a>
